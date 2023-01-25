@@ -20,6 +20,6 @@
     n/a
         
  ## URL & Site
-    site: 
-    URL: 
+    site: https://connormclaughlin2022.github.io/README-generator/
+    URL: https://github.com/ConnorMcLaughlin2022/README-generator.git
    
